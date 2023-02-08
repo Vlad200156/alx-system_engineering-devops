@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Display the contents list of your current directory.
 # Write a script that changes the working directory to the users home directory.
 # Display current directory contents in a long format
@@ -28,7 +27,4 @@
 #    The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning
 #    Only digits and letters are used to sort; Digits should come first
 #    You can assume that all the files we will test with will have at least one letter or one digit
-#    The listing should end with a new line# Write a script that prints the absolute path name of the current working directory.
-=======
-# commands shell
->>>>>>> 3606aba39213a7835a78bbd4707e7a38ec6efe37
+#    The listing should end with a new line# Write a script that prints the absolute path name of the current working direct
